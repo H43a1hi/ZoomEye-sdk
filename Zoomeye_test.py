@@ -15,8 +15,8 @@ if __name__ == '__main__':
     search_type = 'Host'
     search_page = 3
     search_info = "AC2400"
-    username = "linkqiucheng@gmail.com"
-    password = "Qc123.cn.."
+    username = "xxxx"
+    password = "xxxx"
     res = {}
     search_type = search_type.lower()
     login_Token = ZoomEye.login_token(username,password)
