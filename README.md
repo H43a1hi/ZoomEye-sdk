@@ -14,7 +14,7 @@ ZoomEye sdk_v1.0.1
 
 使用pocsuite 的-f 选项读取进行验证
 ```
-pocsuite -r tests/ac2300.py -f /Users/qiucheng/Desktop/ZoomEye/ip.txt --verify
+pocsuite -r tests/ac2300.py -f /Desktop/ZoomEye/ip.txt --verify
 ```
 
 验证结果：
